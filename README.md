@@ -1,7 +1,7 @@
 # tartar-sauce
 ## About
 Miscellaneous demos and scripts for user awareness campaigns. These are odds and ends assembled based on some common asks from phishing campaigns of the past. 
-More detail about usage and extending the payloads is in the blog: *url tbd*
+More detail about usage and extending the payloads is in the blog: [https://www.secureideas.com/blog/tartar-sauce-for-your-phishing-program](https://www.secureideas.com/blog/tartar-sauce-for-your-phishing-program)
 
 **Note: These materials are for demonstrations and user awareness exercises conducted with the target organization's permission. Don't use them for evil.**
 
